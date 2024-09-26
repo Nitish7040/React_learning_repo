@@ -22,3 +22,6 @@ npm run dev
 ### This project is a react project with tailwind css configuration.
 ### Apply some Tailwind CSS in it .
 
+# Project 4:- ReactJs with react random pass generator
+### This project is a react project with random password generator.
+
